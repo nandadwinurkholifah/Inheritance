@@ -1,0 +1,2 @@
+# Inheritance
+contoh Inheritance
